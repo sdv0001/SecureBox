@@ -1,5 +1,3 @@
-# SecureBox Project Documentation
-
 ## Overview
 **SecureBox** is a decentralized application (DApp) designed for secure file storage. It aims to overcome the limitations of conventional cloud services by significantly enhancing user privacy and control over their data. This DApp leverages advanced technologies to provide a fully decentralized, free file storage solution that ensures high levels of security and transparency.
 
